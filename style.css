@@ -1,0 +1,112 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    margin: auto;
+    display: block;
+}
+
+
+.container {
+    width: 80%;
+    height: 1000px;
+    padding: 80px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background: rgba(0, 0, 0, 0.65);
+    border-radius: 25px;
+}
+
+
+header {
+    text-align: center;
+}
+
+
+.logo {
+    width: 180px;
+}
+
+
+#tagline {
+    font-size: 30px;
+    color: rgb(0, 221, 0);
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+.button-bar {
+    height: 20px;
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+    background-color: rgb(0, 221, 0);
+    text-align: center;
+}
+
+
+.monopattino {
+    padding: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+.checkbox {
+    display: inline-block;
+}
+
+
+.row-left {
+    display: inline-block;
+    width: 20px;
+}
+
+
+.row-right {
+    display: inline-block;
+    width: 30%;
+}
+
+
+#mono {
+    font-size: 25px;
+}
+
+
+.address {
+    margin: auto;
+}
+
+
+.carica-1 {
+    height: 25px;
+    width: 30%;
+    background-color: rgb(245, 180, 83);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+.carica-2 {
+    height: 25px;
+    width: 60%;
+    background-color: rgb(30, 195, 30);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+.carica-3 {
+    height: 25px;
+    width: 15%;
+    background-color: rgb(190, 65, 65);
+    border-radius: 5px;
+    margin-top: 10px;
+}
